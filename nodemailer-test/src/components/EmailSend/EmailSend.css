@@ -1,0 +1,14 @@
+.email-send-main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c9615d;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.email-send-container {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    color: #fff;
+}
